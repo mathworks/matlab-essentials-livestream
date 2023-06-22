@@ -14,7 +14,7 @@ To open this repository in MATLAB Online&trade; click the button below.
 
 This link will take you to MATLAB Online and you'll be asked to save and open the repository.
 
-The file LiveStreamSetup.mlx will automatically open. Click the button **Download Data** to setup all data files for following along with the livestream. Then you're ready to go and follow along with the livestream on YouTube!
+The file LiveStreamSetup.mlx will automatically open. Click the button **Download Data** to setup all data files for the livestream. Then you're ready to follow along on YouTube!
 
 If you're interested to learn more about MATLAB, sign up for our free course on edX: [MATLAB Essentials](https://www.edx.org/course/matlab-essentials)
 
