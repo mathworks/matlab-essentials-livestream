@@ -1,10 +1,9 @@
-# MATLAB Essentials Youtube Livestream
+# MATLAB Essentials YouTube Livestream
 
-This repository has MATLAB&reg; files for "Beyond the Code: Showcasing Your MATLAB Results Like a Pro." This was a YouTube livstream for MATLAB Essentials airing on June 22, 2023. 
+This repository has MATLAB&reg; files for "Beyond the Code: Showcasing Your MATLAB Results Like a Pro." This was a YouTube livestream for MATLAB Essentials airing on June 22, 2023. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=J45_lJS5cKU
-" target="_blank"><img src="http://img.youtube.com/vi/J45_lJS5cKU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=IVOebVU3QVY" target="_blank"><img src="http://img.youtube.com/vi/J45_lJS5cKU/0.jpg" 
+alt="Showcasing Your MATLAB Results Like a Pro" width="240" height="180" border="10" /></a>
 
 ## Getting started
 
